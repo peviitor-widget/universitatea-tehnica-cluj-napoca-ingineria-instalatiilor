@@ -1,54 +1,37 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3393147",
-    "title": "INSTALATOR INSTALATII TEHNICO-SANITARE SI DE GAZE",
-    "company": "COMPANIA DE APĂ SA",
-    "location": [
-      "Targoviste, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:10:53.289Z",
-    "status": "scraped",
-    "tags": [
-      "instalații sanitare",
-      "instalații gaze"
-    ],
-    "matchPercentage": 95,
-    "reason": "Instalator instalații tehnico-sanitare și gaze, direct pe specialitate, fără experiență cerută."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-instalatii-sisteme-de-stingere-incendiu",
-    "title": "Inginer Instalații – Sisteme de Stingere Incendiu",
-    "company": "ULTRAFOG S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-proiectant-instalatii-hvac-108",
+    "title": "Inginer proiectant instalatii HVAC",
+    "company": "GENERAL INSTAL COMP SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:10:55.128Z",
+    "date": "2026-10-06T15:07:37.123Z",
     "status": "scraped",
     "tags": [
-      "instalații",
-      "stingere incendiu"
+      "proiectare instalatii",
+      "BIM AutoCAD"
     ],
-    "matchPercentage": 90,
-    "reason": "Sisteme de stingere incendiu relevă pentru instalații, nivel de inginer entry-level adecvat."
+    "matchPercentage": 91,
+    "reason": "Proiectarea instalațiilor HVAC pentru construcții este potrivire directă cu competența principală de proiectare a instalațiilor."
   },
   {
-    "url": "https://oferimdemunca.ro/job/instalator-sisteme-climatizare-necesita-deplasari/",
-    "title": "Instalator sisteme climatizare/ necesita deplasari",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "url": "https://multijobs.ro/job/inginer-executie-instalatii-hvac/6518",
+    "title": "Inginer Execuție Instalații HVAC",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Craiova, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:10:44.525Z",
+    "date": "2026-10-06T15:08:13.470Z",
     "status": "scraped",
     "tags": [
-      "HVAC",
-      "climatizare"
+      "coordonarea execuției",
+      "sisteme HVAC"
     ],
-    "matchPercentage": 90,
-    "reason": "Instalator sisteme climatizare, direct în domeniul HVAC, nivel de junior adecvat."
+    "matchPercentage": 88,
+    "reason": "Inginer de execuție HVAC - potrivire directă cu proiectarea, coordonarea execuției și integrarea sistemelor de instalații."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-testare-constructii",
@@ -58,150 +41,14 @@
       "Str. 1 Decembrie 1918, Brașov, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T16:56:54.064Z",
+    "date": "2026-10-06T15:04:46.072Z",
     "status": "scraped",
     "tags": [
-      "audit energetic",
-      "eficienta energetica"
+      "eficienta energetica",
+      "audit energetic"
     ],
-    "matchPercentage": 90,
-    "reason": "Proiectare si testare energetica in cladiri, potrivire directa cu eficienta energetica si auditul cladirilor."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272373/ABC-Human-Capital/Inginer-service-–-sisteme-de-detectie-si-stingere-incendiu",
-    "title": "Inginer service – sisteme de detectie si stingere incendiu",
-    "company": "ABC HUMAN CAPITAL SRL",
-    "location": [
-      "Arad, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:10:44.525Z",
-    "status": "scraped",
-    "tags": [
-      "stingere incendiu",
-      "instalații"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inginer service pentru sisteme de detectie și stingere incendiu, relevant pentru instalații, nivel adecvat."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-service-sisteme-de-incalzire-si-ventilatie-3",
-    "title": "Inginer service sisteme de încălzire și ventilație",
-    "company": "TOTAL TERM SRL",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:03:29.871Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta instalatii",
-      "exploatare sisteme"
-    ],
-    "matchPercentage": 85,
-    "reason": "Service si exploatare a sistemelor de incalzire si ventilatie, competenta directa de mentenanta a instalatiilor HVAC."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-centrala-termica",
-    "title": "Tehnician Centrala Termica",
-    "company": "VASILE COSMIN IOSIF ÎNTREPRINDERE INDIVIDUALĂ",
-    "location": [
-      "Strada Popa Nicolae 52-54, București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:01:40.746Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta instalatii",
-      "exploatare instalatii"
-    ],
-    "matchPercentage": 85,
-    "reason": "Tehnician de centrala termica, activitate directa de exploatare si intretinere a instalatiilor termice, nivel de intrare potrivit."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/internship-automatizari-realizare-te",
-    "title": "Internship Automatizări &amp; Realizare TE",
-    "company": "LAMI ING EUR SRL",
-    "location": [
-      "Strada Veveritei 13a, Urseni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:08:15.503Z",
-    "status": "scraped",
-    "tags": [
-      "proiectarea instalatiilor",
-      "elaborarea documentatiei tehnice"
-    ],
-    "matchPercentage": 85,
-    "reason": "Internship în automatizări și realizare documentație tehnică (TE), relevant pentru proiectarea și integrarea sistemelor de instalații."
-  },
-  {
-    "url": "https://multijobs.ro/job/angajam-personal-intretinere-centrala-termica-intr-un-compex-residential/5590",
-    "title": "Angajăm Personal intretinere centrala termica intr-un compex residential",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T13:48:18.458Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta instalatii",
-      "exploatare instalatii"
-    ],
-    "matchPercentage": 82,
-    "reason": "Intretinerea centralei termice intr-un complex rezidential foloseste direct competentele de exploatare si intretinere a instalatiilor termice, nivel entry."
-  },
-  {
-    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/instalatori/anunt/tehnician-inginer-service-centrale-termice-angajare-sau-colaborere/8fge299d36517dh21ddege5i0f90h660.html",
-    "title": "Tehnician/inginer service centrale termice angajare sau colaborere",
-    "company": "PUBLI24 DIGITAL S.R.L.",
-    "location": [
-      "Sector 5, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:11:28.063Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta",
-      "exploatarea sistemelor"
-    ],
-    "matchPercentage": 80,
-    "reason": "Service-ul centralelor termice înseamnă exploatare, întreținere și revizia instalațiilor termice, domeniu și nivel de intrare potrivite."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272371/ABC-Human-Capital/Inginer/Technician-sisteme-de-securitate-si-alarmare-la-incendiu",
-    "title": "Inginer/Technician sisteme de securitate si alarmare la incendiu",
-    "company": "ABC HUMAN CAPITAL SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:10:44.525Z",
-    "status": "scraped",
-    "tags": [
-      "stingere incendiu",
-      "instalații"
-    ],
-    "matchPercentage": 80,
-    "reason": "Tehnician/inginer pentru alarmare la incendiu, componentă relevantă de instalații, nivel potrivit."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3388779",
-    "title": "INGINER ENERGETICA INDUSTRIALA",
-    "company": "SOCIETATEA  DE PRODUCERE A ENERGIEI ELECTRICE IN HIDROCENTRALE &quot;HIDROELECTRICA&quot; SA BUCURESTI SUCURSALA HIDROCENTRALE SEBES",
-    "location": [
-      "Sebes, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:04:39.889Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta instalatii",
-      "exploatare sisteme"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginer fara experienta care planifica si urmareste mentenanta si analizeaza starea tehnica a instalatiilor."
+    "matchPercentage": 87,
+    "reason": "Proiectarea și testarea energetică a clădirilor se potrivește direct cu eficiența energetică și auditul energetic al clădirilor."
   },
   {
     "url": "https://jobs.arcadis.com/careers/job/563671533028631",
@@ -211,65 +58,48 @@
       "Iași,Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:09:48.742Z",
+    "date": "2026-10-06T14:54:05.534Z",
     "status": "scraped",
     "tags": [
       "BIM",
-      "Proiectarea instalatiilor"
+      "integrare sisteme"
     ],
-    "matchPercentage": 79,
-    "reason": "Coordonare BIM pentru modele MEPF (mecanice, electrice, sanitare) intr-un mediu de proiectare, la nivel junior-mid."
+    "matchPercentage": 85,
+    "reason": "Coordonarea modelelor BIM MEPF (clash detection, ISO 19650) folosește direct competențele de BIM și integrarea sistemelor de instalații, la nivel entry/mid."
   },
   {
-    "url": "https://multijobs.ro/job/inginer-proiectant-sisteme-fotovoltaice/2565",
-    "title": "Inginer Proiectant Sisteme Fotovoltaice",
-    "company": "GENERAL ELECTRO PROEXIM SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-service-mentenanta-reparatii-echip-hvac",
+    "title": "Tehnician service mentenanta/reparatii echip. HVAC",
+    "company": "AMBER TECHNOLOGIES SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Soseaua Pipera, nr.44, sec.2, BUCURESTI, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:11:05.076Z",
+    "date": "2026-10-06T15:08:07.806Z",
     "status": "scraped",
     "tags": [
-      "proiectarea instalatiilor",
-      "selectia echipamentelor"
+      "mentenanta instalatiilor",
+      "revizia instalatiilor"
     ],
-    "matchPercentage": 75,
-    "reason": "Proiectarea sistemelor fotovoltaice presupune proiectarea instalațiilor electrice, dimensionare și selectia echipamentelor, la nivel de intrare."
+    "matchPercentage": 82,
+    "reason": "Mentenanța și reparația echipamentelor HVAC se potrivește direct cu exploatarea și mentenanța sistemelor de instalații, la nivel tehnic de intrare."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-asamblare-echipamente-climatizare-industriala-hvac-italia_padova_5272/",
-    "title": "Tehnician Asamblare Echipamente Climatizare Industrială (HVAC). Italia",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-de-ofertare-hvac-sales-inside-engineer-4",
+    "title": "Inginer de Ofertare HVAC (Sales Inside Engineer)",
+    "company": "CAIROX ROMÂNIA S.R.L.",
     "location": [
-      "Padova, Romania"
+      "Ploiesti, Romania,Buftea 070000, Romania,Mogosoaia, Romania,Chitila, Romania,CAIROX ROMANIA, Soseaua Odaii, Bucuresti, Romania,Otopeni 075100, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:09:35.297Z",
+    "date": "2026-10-06T15:09:25.419Z",
     "status": "scraped",
     "tags": [
-      "echipamente instalatii",
-      "exploatare sisteme"
+      "selectie echipamente",
+      "proiectare instalatii"
     ],
-    "matchPercentage": 75,
-    "reason": "Tehnician HVAC in domeniul echipamentelor de climatizare, la nivel de intrare in specialitate."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/specialist-mentenanta-retele-electrice-mt-jt-dolj/1987499",
-    "title": "Specialist mentenanta retele electrice MT/JT - Dolj",
-    "company": "DISTRIBUȚIE ENERGIE OLTENIA S.A.",
-    "location": [
-      "Craiova, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:11:13.406Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta instalatii",
-      "retele instalatii"
-    ],
-    "matchPercentage": 75,
-    "reason": "Mentenanta retelelor electrice MT/JT, potrivire directa cu exploatarea si intretinerea instalatiilor."
+    "matchPercentage": 80,
+    "reason": "Ofertare tehnică HVAC pentru construcții folosește direct competența de specificare/selectionare a echipamentelor de instalatii și cunoștințele de proiectare HVAC, la nivel entry/mid."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271882/Arcadis-Global-Excellence-Center/BIM-Coordinator",
@@ -279,150 +109,148 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:01:07.636Z",
+    "date": "2026-10-06T14:51:56.597Z",
     "status": "scraped",
     "tags": [
       "BIM",
-      "Proiectarea instalatiilor"
+      "proiectare instalații"
     ],
-    "matchPercentage": 75,
-    "reason": "Coordonare BIM intr-o echipa de proiectare, la nivel junior-mid (1-5 ani), relevanta pentru modelarea instalatiilor."
+    "matchPercentage": 80,
+    "reason": "Coordonare BIM în proiectare, nivel 1-5 ani (junior/mid), direct relevant pentru proiectarea instalațiilor cu BIM."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143555199",
-    "title": "Working Student Mechanical Field",
-    "company": "DEN BOSCH GROUP SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-electrician-instalatii-electrice",
+    "title": "Inginer electrician / instalații electrice",
+    "company": "ELECTROSTRAT S.R.L.",
     "location": [
-      "Blaj, Romania"
+      "Bucuresti, Romania,Cluj-Napoca, Romania,Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:11:33.204Z",
+    "date": "2026-10-06T15:09:01.248Z",
     "status": "scraped",
     "tags": [
-      "mentenanta",
-      "mecanica"
+      "proiectare instalatii",
+      "retele instalatii"
     ],
-    "matchPercentage": 75,
-    "reason": "Mecanic/mentenanta relevant pentru instalatii."
+    "matchPercentage": 78,
+    "reason": "Instalațiile electrice ale construcțiilor intră direct în competența de proiectare și execuție a rețelelor de instalații, fără cerințe de experiență senior."
   },
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/handyman-tehnician-mentenanta-cladiri-de-birouri/100462",
-    "title": "Handyman /Tehnician Mentenanta - Cladiri de birouri",
-    "company": "TOP LINE EUROPA SRL",
+    "url": "https://multijobs.ro/job/frigotehnist-tehnician-instalatii-frigorifice/5116",
+    "title": "Frigotehnist / Tehnician instalații frigorifice",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:09:12.380Z",
+    "status": "scraped",
+    "tags": [
+      "exploatare instalatii",
+      "mentenanta instalatii"
+    ],
+    "matchPercentage": 75,
+    "reason": "Instalațiile frigorifice fac parte din domeniul instalațiilor HVAC, iar rolul de tehnician acoperă exploatarea, întreținerea și revizia sistemelor de instalații."
+  },
+  {
+    "url": "https://jobs.arcadis.com/careers/job/563671532481638",
+    "title": "BIM Coordinator",
+    "company": "ARCADIS SRL",
+    "location": [
+      "Iași,Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T14:58:34.631Z",
+    "status": "scraped",
+    "tags": [
+      "proiectarea instalațiilor pentru construcții",
+      "BIM AutoCAD"
+    ],
+    "matchPercentage": 75,
+    "reason": "BIM Coordinator în echipa MEPF (mecanic, electric, sanitare, antiincendiu), potrivire directă cu proiectarea și integrarea instalațiilor, dar în talent pool fără poziție activă."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-instalatii-curenti-slabi-12",
+    "title": "Tehnician instalatii curenti slabi",
+    "company": "FOCALITY SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:07:41.047Z",
+    "status": "scraped",
+    "tags": [
+      "retele instalatii",
+      "mentenanta instalatii"
+    ],
+    "matchPercentage": 74,
+    "reason": "Instalațiile de curenți slabi fac parte din rețelele și infrastructura de instalații din construcții, nivel tehnic entry."
+  },
+  {
+    "url": "https://multijobs.ro/job/angajam-electricieni-proiecte-constructii-fotovoltaice/5645",
+    "title": "Angajăm Electricieni – Proiecte Construcții &amp; Fotovoltaice",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:09:25.419Z",
+    "status": "scraped",
+    "tags": [
+      "retele instalatii",
+      "executie instalatii"
+    ],
+    "matchPercentage": 70,
+    "reason": "Lucrări de instalații electrice în construcții și fotovoltaice, în domeniul rețelelor de instalații, accesibile ca nivel de experiență."
+  },
+  {
+    "url": "https://www.anuntul.ro/anunt-angajare-muncitori-pt-executie-O0mY8o",
+    "title": "Muncitori pt executie instalatii termice, sanitare, climatizare",
+    "company": "ANUNTUL TOTAL SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:07:22.725Z",
+    "date": "2026-10-06T14:58:56.010Z",
     "status": "scraped",
     "tags": [
-      "Mentenanta instalatiilor",
-      "Intretinerea curenta"
-    ],
-    "matchPercentage": 74,
-    "reason": "Mentenanta si verificarea periodica a instalatiilor electrice si sanitare din cladiri foloseste direct competentele de exploatare si intretinere."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/sef-de-santier-instalatii-executie-rezidential",
-    "title": "Sef de Santier – Instalatii – Execuție Rezidențial",
-    "company": "INTERO PROPERTY DEVELOPMENT S.R.L.",
-    "location": [
-      "Tunari, Romania,București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:11:32.400Z",
-    "status": "scraped",
-    "tags": [
-      "conducerea santierelor",
-      "coordonarea executiei"
-    ],
-    "matchPercentage": 72,
-    "reason": "Coordonarea executiei și conducerea șantierului de instalații rezidențiale folosește direct competențele tale de execuție și management al instalațiilor."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-protectii-si-automatizari-5",
-    "title": "Inginer protectii si automatizari",
-    "company": "SOCIETATEA ENERGETICĂ ELECTRICA S.A.",
-    "location": [
-      "Bd. Timișoara 104b, Bucuresti 061334, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:03:10.407Z",
-    "status": "scraped",
-    "tags": [
-      "retele instalatii",
-      "proiectare instalatii"
-    ],
-    "matchPercentage": 72,
-    "reason": "Proiectare si operare protectii si automatizari pentru retele electrice, relevant pentru retele si infrastructuri electrice."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/instalator-sanitar/1984472",
-    "title": "Instalator sanitar",
-    "company": "PRIME RENT DISTRIBUTION S.R.L.",
-    "location": [
-      "Targumures, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T16:53:12.346Z",
-    "status": "scraped",
-    "tags": [
-      "executie instalatii",
-      "HVAC"
-    ],
-    "matchPercentage": 72,
-    "reason": "Execuție de instalații sanitare, termice, HVAC, centrale și ventilație, în domeniul direct al instalațiilor pentru construcții."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/angajam-instalator-climatizare-si-frigotehnist",
-    "title": "ANGAJAM INSTALATOR CLIMATIZARE SI FRIGOTEHNIST",
-    "company": "CLIMA DNC HVAC S.R.L.",
-    "location": [
-      "Baia Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:02:10.436Z",
-    "status": "scraped",
-    "tags": [
-      "executie instalatii",
-      "echipamente instalatii"
+      "executia instalatiilor"
     ],
     "matchPercentage": 70,
-    "reason": "Executie si service instalatii de climatizare/frigotehnica, domeniu direct al instalatiilor."
+    "reason": "Execuția instalațiilor termice, sanitare și de climatizare este chiar domeniul principal al specializării, nivel de intrare."
   },
   {
-    "url": "https://multijobs.ro/job/instalator-sanitare-termice-clima-si-ventilatie-germania/1256",
-    "title": "Instalator sanitare, termice, climă și ventilație (Germania)",
-    "company": "SILVERHAND.RO SRL",
+    "url": "https://dreamjobs.ro/ro/job/lm-cliventins-srl/instalator-ventilatie-climatizare",
+    "title": "Instalator ventilație-climatizare",
+    "company": "KRONSTEF SRL",
     "location": [
-      "Hunedoara, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:01:43.835Z",
+    "date": "2026-10-06T15:04:52.416Z",
     "status": "scraped",
     "tags": [
-      "executie instalatii",
-      "retele instalatii"
+      "executia instalatiilor"
     ],
-    "matchPercentage": 70,
-    "reason": "Executie instalatii sanitare, termice, HVAC - acoperire larga a retelelor de instalatii."
+    "matchPercentage": 68,
+    "reason": "Montajul sistemelor de ventilație-climatizare pe șantier, alături de ingineri HVAC, folosește direct domeniul instalațiilor de construcții."
   },
   {
-    "url": "https://multijobs.ro/job/electrician-instalator-frigotehnist-tehnician-service-climatizare/1054",
-    "title": "electrician, instalator, frigotehnist, tehnician service climatizare",
-    "company": "ANDOCOM SRL",
+    "url": "https://multijobs.ro/job/tehnician-frigotehnist-recrutam-pentru-un-client-din-industria-echipamentelor-de-refrigerare-si-climatizare/2627",
+    "title": "Tehnician Frigotehnist - Recrutăm pentru un client din industria echipamentelor de refrigerare și climatizare",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Constanta, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:01:39.851Z",
+    "date": "2026-10-06T15:00:00.848Z",
     "status": "scraped",
     "tags": [
-      "intretinere instalatii",
-      "echipamente instalatii"
+      "mentenanta instalatiilor",
+      "revizia instalatiilor"
     ],
-    "matchPercentage": 70,
-    "reason": "Tehnician service instalatii climatizare si frigotehnica, mentenanta sistemelor de instalatii."
+    "matchPercentage": 68,
+    "reason": "Tehnician frigotehnist = mentenanța echipamentelor de refrigerare/climatizare, relevant pentru exploatarea și mentenanța instalațiilor."
   },
   {
     "url": "https://oferimdemunca.ro/job/ajutor-instalator-termic-si-sanitar/",
@@ -432,81 +260,244 @@
       "Iaşi, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:07:03.593Z",
+    "date": "2026-10-06T15:02:56.135Z",
     "status": "scraped",
     "tags": [
-      "executie instalatii",
-      "instalatii sanitare"
+      "mentenanță instalații"
     ],
-    "matchPercentage": 70,
-    "reason": "Rol de execuție în instalații termice și sanitare, la nivel de intrare, cu sau fără experiență."
+    "matchPercentage": 68,
+    "reason": "Ajutor instalator termic și sanitar fără experiență obligatorie, potrivit ca start în exploatarea și mentenanța instalațiilor."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3146115",
-    "title": "TEHNICIAN SANITAR",
-    "company": "DIAVERUM ROMANIA SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/tehnician-service-junior/1989271",
+    "title": "Tehnician Service Junior",
+    "company": "NOVASERVIS FERRO GROUP SRL",
     "location": [
-      "Calarasi, Romania"
+      "Buftea, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T16:58:37.119Z",
+    "date": "2026-10-06T15:08:25.485Z",
     "status": "scraped",
     "tags": [
       "intretinere instalatii",
       "exploatare instalatii"
     ],
-    "matchPercentage": 70,
-    "reason": "Mentenanța, reviziile și exploatarea stației de tratare a apei și a instalațiilor, cu experiență cerută sub 3 ani."
+    "matchPercentage": 68,
+    "reason": "Diagnosticarea si repararea produselor sanitare (robinete, cartușe, componente hidraulice) folosește direct competentele de intretinere si revizie a instalatiilor sanitare, la nivel junior 0-2 ani."
   },
   {
-    "url": "https://multijobs.ro/job/instalator-pentru-sisteme-de-ventilatie-germania/2058",
-    "title": "Instalator pentru sisteme de ventilație (Germania)",
-    "company": "SILVERHAND.RO SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271745/ABC-Human-Capital/Electrician-–-Instalații-Electrice-și-Sisteme-Fotovoltaice",
+    "title": "Electrician – Instalații Electrice și Sisteme Fotovoltaice",
+    "company": "ABC HUMAN CAPITAL SRL",
     "location": [
-      "Timișoara, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:01:57.809Z",
+    "date": "2026-10-06T15:07:46.799Z",
     "status": "scraped",
     "tags": [
-      "executie instalatii",
-      "retele instalatii"
+      "rețele de instalații",
+      "eficiență energetică"
     ],
-    "matchPercentage": 68,
-    "reason": "Executie instalatii de ventilatie, domeniu relevant de instalatii pentru constructii."
+    "matchPercentage": 66,
+    "reason": "Instalații electrice și fotovoltaice sunt în domeniul rețelelor de instalații, dar descrierea nu confirmă nivelul de intrare."
   },
   {
-    "url": "https://multijobs.ro/job/instalator-sanitare-termice-germania/1351",
+    "url": "https://multijobs.ro/job/instalator-ventilatie-olanda/2467",
+    "title": "Instalator ventilație (Olanda)",
+    "company": "SILVERHAND.RO SRL",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:05:09.813Z",
+    "status": "scraped",
+    "tags": [
+      "executia instalatiilor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Instalarea sistemelor de ventilație este direct în domeniul executării instalațiilor HVAC, nivel de intrare potrivit."
+  },
+  {
+    "url": "https://multijobs.ro/job/instalator-sanitare-termice-germania/1342",
     "title": "Instalator sanitare/termice (Germania)",
-    "company": "SILVERHAND.RO SRL",
-    "location": [
-      "Pitești, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T17:11:00.915Z",
-    "status": "scraped",
-    "tags": [
-      "executie instalatii",
-      "retele instalatii"
-    ],
-    "matchPercentage": 68,
-    "reason": "Executie instalatii sanitare si termice, domeniu direct de instalatii."
-  },
-  {
-    "url": "https://multijobs.ro/job/instalator-sanitare-termice-olanda/2322",
-    "title": "Instalator sanitare/termice (Olanda)",
     "company": "SILVERHAND.RO SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:11:00.915Z",
+    "date": "2026-10-06T15:07:43.850Z",
     "status": "scraped",
     "tags": [
       "executie instalatii",
-      "retele instalatii"
+      "mentenanta instalatii"
     ],
-    "matchPercentage": 68,
-    "reason": "Executie instalatii sanitare si termice, domeniu direct de instalatii."
+    "matchPercentage": 65,
+    "reason": "Execuția instalațiilor sanitare/termice intră direct în domeniul instalațiilor pentru construcții, la nivel entry."
+  },
+  {
+    "url": "https://multijobs.ro/job/instalator-sanitare-termice-germania/1841",
+    "title": "Instalator sanitare/termice (Germania)",
+    "company": "SILVERHAND.RO SRL",
+    "location": [
+      "Craiova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:07:43.850Z",
+    "status": "scraped",
+    "tags": [
+      "executie instalatii",
+      "mentenanta instalatii"
+    ],
+    "matchPercentage": 65,
+    "reason": "Execuția instalațiilor sanitare/termice intră direct în domeniul instalațiilor pentru construcții, la nivel entry."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/electrician-infrastructura-energetica/1987055",
+    "title": "Electrician Infrastructură Energetică",
+    "company": "ROMANIA TRAVEL PLUS SRL",
+    "location": [
+      "Craiova,Bals, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:09:07.373Z",
+    "status": "scraped",
+    "tags": [
+      "retele instalatii",
+      "mentenanta instalatii"
+    ],
+    "matchPercentage": 65,
+    "reason": "Lucrul pe infrastructură energetică și rețele electrice este parțial relevant pentru domeniul rețelelor de instalații, la nivel entry/mid."
+  },
+  {
+    "url": "https://jobs.arcadis.com/careers/job/563671532663800",
+    "title": "BIM Coordinator",
+    "company": "ARCADIS SRL",
+    "location": [
+      "Bucuresti,Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:01:35.296Z",
+    "status": "scraped",
+    "tags": [
+      "BIM AutoCAD",
+      "integrarea sistemelor de instalații"
+    ],
+    "matchPercentage": 65,
+    "reason": "BIM Coordinator intermediar în inginerie, potrivit parțial cu utilizarea softurilor BIM/AutoCAD și integrarea sistemelor de instalații."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/instalator-sanitar/1984472",
+    "title": "Instalator sanitar",
+    "company": "PRIME RENT DISTRIBUTION S.R.L.",
+    "location": [
+      "Targumures, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:07:52.324Z",
+    "status": "scraped",
+    "tags": [
+      "mentenanță instalații"
+    ],
+    "matchPercentage": 65,
+    "reason": "Montaj și revizii de instalații sanitare, termice, HVAC și ventilare, în domeniul execuției/mentenanței instalațiilor, nivel entry."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/instalator-sanitar/1990698",
+    "title": "Instalator sanitar",
+    "company": "MBT GLOBAL SRL",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T14:51:44.393Z",
+    "status": "scraped",
+    "tags": [
+      "mentenanță instalații"
+    ],
+    "matchPercentage": 65,
+    "reason": "Instalator sanitar cu experiență doar ca avantaj, deci nivel entry în domeniul instalațiilor sanitare."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3403771",
+    "title": "INSTALATOR INSTALATII TEHNICO-SANITARE SI DE GAZE",
+    "company": "FAR FOUNDATION SRL",
+    "location": [
+      "Rodna, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:07:44.910Z",
+    "status": "scraped",
+    "tags": [
+      "rețele de instalații",
+      "intretinerea instalațiilor"
+    ],
+    "matchPercentage": 64,
+    "reason": "Execuția instalațiilor tehnico-sanitare și de gaze este în domeniu, la nivel de intrare cu experiență minimă."
+  },
+  {
+    "url": "https://www.apavital.ro/cariere/concurs-pentru-ocuparea-unui-post-de-instalator-in-cadrul-serviciului-comercial-zmi",
+    "title": "Concurs pentru ocuparea unui post de instalator in cadrul Serviciului Comercial ZMI",
+    "company": "APAVITAL SA",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:09:24.388Z",
+    "status": "scraped",
+    "tags": [
+      "rețele de instalații",
+      "revizia instalațiilor"
+    ],
+    "matchPercentage": 63,
+    "reason": "Execuția și mentenanța branșamentelor sanitare intră direct în domeniul instalațiilor, la nivel entry-level."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/instalator-operator-montaj-sisteme-climatizare/",
+    "title": "Instalator/operator montaj sisteme climatizare",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "Craiova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:00:56.337Z",
+    "status": "scraped",
+    "tags": [
+      "executia instalatiilor"
+    ],
+    "matchPercentage": 63,
+    "reason": "Montajul sistemelor de climatizare și ventilație aparține executării instalațiilor HVAC, la nivel de intrare."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/operator-montaj-sisteme-climatizare-craiova/",
+    "title": "Operator montaj sisteme climatizare - Craiova",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "Craiova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T14:58:51.404Z",
+    "status": "scraped",
+    "tags": [
+      "executia instalatiilor"
+    ],
+    "matchPercentage": 63,
+    "reason": "Montaj sisteme de climatizare, executare de instalați HVAC, potrivit ca nivel de intrare."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/montatori-tubulatura-de-ventilatie-cu-experienta",
+    "title": "MONTATORI TUBULATURA DE VENTILATIE – CU EXPERIENTA",
+    "company": "ISOVENT BAU S.R.L.",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:06:13.598Z",
+    "status": "scraped",
+    "tags": [
+      "executia instalatiilor"
+    ],
+    "matchPercentage": 62,
+    "reason": "Montajul tubulaturii de ventilație este executare directă a instalațiilor HVAC, în domeniul de bază al specializării, la nivel de tehnician."
   }
 ]
