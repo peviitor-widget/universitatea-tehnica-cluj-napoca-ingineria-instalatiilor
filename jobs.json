@@ -1,21 +1,21 @@
 [
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_4992/",
-    "title": "inginer proiectare instalații sanitare și stingere incendii",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/EtbUWrw5yM",
+    "title": "Inginer Proiectant Joasa Tensiune &amp; Curenti Slabi",
+    "company": "DIRECT ONE SA",
     "location": [
-      "București",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:05:07.410Z",
+    "date": "2026-10-29T12:16:41Z",
     "status": "scraped",
     "tags": [
-      "proiectare instalații",
-      "instalații sanitare"
+      "proiectarea instalațiilor",
+      "instalații electrice"
     ],
     "matchPercentage": 88,
-    "reason": "Proiectare de instalații sanitare și stingere incendii, potrivită pentru absolventul de Ingineria Instalațiilor."
+    "reason": "Proiectarea instalațiilor electrice de joasă tensiune și a sistemelor de curenți slabi pentru clădiri este direct relevantă."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270700/Working4U/Inginer-Proiectare-Retele-Electrice",
@@ -29,83 +29,29 @@
     "date": "2026-10-17T12:22:04.064Z",
     "status": "scraped",
     "tags": [
-      "proiectare retele",
-      "instalatii electrice"
+      "proiectare rețele",
+      "rețele electrice"
+    ],
+    "matchPercentage": 88,
+    "reason": "Proiectarea rețelelor electrice este direct în domeniul instalațiilor, iar rolul de inginer proiectant se adresează unui nivel entry/junior."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/qjslVELwJw",
+    "title": "Inginer calitate instalatii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "instalații MEP",
+      "normative tehnice"
     ],
     "matchPercentage": 85,
-    "reason": "Proiectare rețele electrice, domeniu direct relevant și nivel de inginer proiectant potrivit."
-  },
-  {
-    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/instalatori/anunt/angajez-instalator-tehnico-sanitar-si-de-gaze/49709745h19i75dh10h88di916d56141.html",
-    "title": "angajez instalator tehnico sanitar si de gaze",
-    "company": "PUBLI24 DIGITAL S.R.L.",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:39.504Z",
-    "status": "scraped",
-    "tags": [
-      "instalatii sanitare",
-      "instalatii de gaze"
-    ],
-    "matchPercentage": 82,
-    "reason": "Instalator tehnico-sanitar si de gaze, cu 1-3 ani experienta, executa direct lucrari de instalatii sanitare si gaze."
-  },
-  {
-    "url": "https://dreamjobs.ro/ro/job/adb-biomass/viz-es-gazszerelo",
-    "title": "Instalator sanitar și de gaze",
-    "company": "ADB BIOMASS S.R.L.",
-    "location": [
-      "Sfantu Gheorghe",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:13.903Z",
-    "status": "scraped",
-    "tags": [
-      "instalatii sanitare",
-      "instalatii de gaze"
-    ],
-    "matchPercentage": 82,
-    "reason": "Instalatorul sanitar si de gaze lucreaza direct la executia si intretinerea instalatiilor din cladiri."
-  },
-  {
-    "url": "https://www.anuntul.ro/anunt-angajare-instalator-sanitar--lOP82x",
-    "title": "Instalator sanitar – mentenanta echipamente de filtrare apa (full-time)",
-    "company": "ANUNTUL TOTAL SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:02:32.405Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta",
-      "instalatii sanitare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Postul presupune montaj si mentenanta pentru echipamente de filtrare a apei, activitate directa de instalatii."
-  },
-  {
-    "url": "https://www.anuntul.ro/anunt-angajare-electrician-cu-fara-zK2drm",
-    "title": "Electrician cu/ fara experienta si instalator sanitar",
-    "company": "ANUNTUL TOTAL SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T11:59:22.731Z",
-    "status": "scraped",
-    "tags": [
-      "instalatii electrice",
-      "instalatii sanitare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Postul combina lucrari electrice si sanitare, fara experienta sau cu experienta redusa, in domeniul instalatiilor."
+    "reason": "Verificarea calității lucrărilor de instalații MEP este direct relevantă pentru competențele de instalații sanitare, electrice și HVAC."
   },
   {
     "url": "https://www.jobs-continentalhotels.ro/ro/job-details/130-tehnician-inginer_instalatii_sanitare_si_hvac",
@@ -116,14 +62,104 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:05:10.502Z",
+    "date": "2026-10-29T12:16:31.432Z",
     "status": "scraped",
     "tags": [
-      "instalatii HVAC",
-      "mentenanta instalatii"
+      "instalații sanitare",
+      "instalații HVAC"
+    ],
+    "matchPercentage": 85,
+    "reason": "Coordonarea execuției și mentenanței instalațiilor sanitare și HVAC este direct relevantă pentru specializare."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/cD3jA97IQS",
+    "title": "Inginer Proiectant Instalatii Secundare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "instalații electrice",
+      "documentație tehnică"
+    ],
+    "matchPercentage": 80,
+    "reason": "Proiectarea instalațiilor electrice secundare și a automatizărilor se încadrează în domeniul instalațiilor electrice."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/B5YbGEBGbY",
+    "title": "Inginer Proiectant Instalatii Secundare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "instalații electrice",
+      "documentație tehnică"
+    ],
+    "matchPercentage": 80,
+    "reason": "Proiectarea instalațiilor electrice secundare și a automatizărilor se încadrează în domeniul instalațiilor electrice."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/1loIjnWQLn",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "instalații electrice",
+      "normative tehnice"
     ],
     "matchPercentage": 78,
-    "reason": "Coordonarea executiei si mentenantei instalatiilor sanitare si HVAC se potriveste direct cu competentele de instalatii si exploatare."
+    "reason": "Asigurarea calității lucrărilor electrice de joasă, medie și înaltă tensiune se bazează pe competențe de instalații electrice."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/FOs0fT7Gtj",
+    "title": "Inginer Proiectare Instalatii Electrice Primare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "instalații electrice",
+      "dimensionare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Proiectarea instalațiilor electrice primare din stații folosește competențe de dimensionare și documentație tehnică."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/0lIDQtu2zZ",
+    "title": "Inginer Proiectare Instalatii Electrice Primare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "instalații electrice",
+      "dimensionare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Proiectarea instalațiilor electrice primare din stații folosește competențe de dimensionare și documentație tehnică."
   },
   {
     "url": "https://www.undelucram.ro/ro/locuri-de-munca/inginer-energetician-mentenanta-specializata/99886",
@@ -137,190 +173,11 @@
     "date": "2026-10-17T12:22:02.148Z",
     "status": "scraped",
     "tags": [
-      "rețele electrice",
-      "mentenanță"
+      "retele electrice",
+      "mentenanta"
     ],
     "matchPercentage": 78,
-    "reason": "Inginer de mentenanță în rețele electrice de înaltă tensiune, cu sarcini directe de inspecție, verificare și mentenanță a echipamentelor electrice."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/instalator-sanitar-loc-de-munca-in-spania/1987919",
-    "title": "INSTALATOR SANITAR – LOC DE MUNCĂ ÎN SPANIA",
-    "company": "PIINEA DE CASA SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:01:41.129Z",
-    "status": "scraped",
-    "tags": [
-      "executia instalatiilor",
-      "instalatii sanitare"
-    ],
-    "matchPercentage": 78,
-    "reason": "Post de instalator sanitar in constructii rezidentiale, cu 2 ani experienta, direct pe executia instalatiilor."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/qjslVELwJw",
-    "title": "Inginer calitate instalatii",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:22:31Z",
-    "status": "scraped",
-    "tags": [
-      "instalatii MEP",
-      "normative tehnice"
-    ],
-    "matchPercentage": 76,
-    "reason": "Monitorizarea si verificarea lucrarilor de instalatii MEP se potriveste direct cu competentele de executie si respectare a normativelor."
-  },
-  {
-    "url": "https://multijobs.ro/job/instalator-tehnico-sanitar/1648",
-    "title": "Instalator Tehnico-Sanitar",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:04:25.779Z",
-    "status": "scraped",
-    "tags": [
-      "instalatii sanitare",
-      "executia instalatiilor"
-    ],
-    "matchPercentage": 76,
-    "reason": "Titlul si compania indica un post de instalator tehnico-sanitar, direct in domeniul executiei si mentenantei instalatiilor."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/cD3jA97IQS",
-    "title": "Inginer Proiectant Instalatii Secundare",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:22:31Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare instalatii",
-      "dimensionare echipamente"
-    ],
-    "matchPercentage": 75,
-    "reason": "Proiectarea si dimensionarea instalatiilor electrice secundare foloseste direct competentele de proiectare si selectie a echipamentelor."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/B5YbGEBGbY",
-    "title": "Inginer Proiectant Instalatii Secundare",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:22:31Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare instalatii",
-      "dimensionare echipamente"
-    ],
-    "matchPercentage": 75,
-    "reason": "Proiectarea si dimensionarea instalatiilor electrice secundare foloseste direct competentele de proiectare si selectie a echipamentelor."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-service-hvac_sibiu_4876/",
-    "title": "Tehnician Service HVAC",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:05:07.409Z",
-    "status": "scraped",
-    "tags": [
-      "mentenanta HVAC",
-      "exploatare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Service si mentenanta echipamentelor HVAC, cu aplicare directa a competentelor de exploatare si intretinere."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/b1I5LokK3w",
-    "title": "Inginer Implementare Electrice",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Piatra-Neamt",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:22:31Z",
-    "status": "scraped",
-    "tags": [
-      "instalații electrice",
-      "execuție lucrări"
-    ],
-    "matchPercentage": 75,
-    "reason": "Inginer implementare pentru lucrări electrice de medie/înaltă tensiune, cu atribuții tehnice de execuție și verificare."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/DXLHzwvIPf",
-    "title": "Inginer Implementare Electrice",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:22:31Z",
-    "status": "scraped",
-    "tags": [
-      "instalații electrice",
-      "execuție lucrări"
-    ],
-    "matchPercentage": 75,
-    "reason": "Inginer implementare pentru lucrări electrice de medie/înaltă tensiune, cu atribuții tehnice de execuție și verificare."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/FOs0fT7Gtj",
-    "title": "Inginer Proiectare Instalatii Electrice Primare",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:22:31Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare retele",
-      "dimensionare echipamente"
-    ],
-    "matchPercentage": 73,
-    "reason": "Proiectarea instalatiilor electrice primare din statii foloseste competentele de proiectare, dimensionare si normative tehnice."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/0lIDQtu2zZ",
-    "title": "Inginer Proiectare Instalatii Electrice Primare",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:22:31Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare retele",
-      "dimensionare echipamente"
-    ],
-    "matchPercentage": 73,
-    "reason": "Proiectarea instalatiilor electrice primare din statii foloseste competentele de proiectare, dimensionare si normative tehnice."
+    "reason": "Inginerul energetician realizează mentenanță specializată la echipamente din stații electrice, relevant pentru rețele electrice."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/yxJVqBAfHk",
@@ -331,14 +188,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:22:31Z",
+    "date": "2026-10-29T12:31:50Z",
     "status": "scraped",
     "tags": [
-      "calitatea instalatiilor",
+      "instalații electrice",
       "normative tehnice"
     ],
-    "matchPercentage": 68,
-    "reason": "Verificarea calitatii lucrarilor de instalatii electrice foloseste direct competentele de normative si coordonare a executiei."
+    "matchPercentage": 75,
+    "reason": "Verificarea calității lucrărilor de instalații electrice folosește direct competențe tehnice de specialitate."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/NRqMw8Lvh5",
@@ -349,14 +206,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:22:31Z",
+    "date": "2026-10-29T12:31:50Z",
     "status": "scraped",
     "tags": [
-      "calitatea instalatiilor",
+      "instalații electrice",
       "normative tehnice"
     ],
-    "matchPercentage": 68,
-    "reason": "Controlul calitatii lucrarilor de instalatii electrice si mecanice se potriveste cu competentele tehnice de executie si normative."
+    "matchPercentage": 75,
+    "reason": "Controlul calității instalațiilor electrice și mecanice este relevant pentru execuția instalațiilor."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/F9wmym3eLR",
@@ -367,14 +224,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:22:31Z",
+    "date": "2026-10-29T12:31:50Z",
     "status": "scraped",
     "tags": [
-      "calitatea instalatiilor",
+      "instalații electrice",
       "normative tehnice"
     ],
-    "matchPercentage": 68,
-    "reason": "Controlul calitatii lucrarilor de instalatii electrice si mecanice se potriveste cu competentele tehnice de executie si normative."
+    "matchPercentage": 75,
+    "reason": "Controlul calității instalațiilor electrice și mecanice este relevant pentru execuția instalațiilor."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/l3DNaO2G19",
@@ -385,121 +242,50 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:22:31Z",
+    "date": "2026-10-29T12:31:50Z",
     "status": "scraped",
     "tags": [
-      "calitatea instalatiilor",
+      "instalații electrice",
       "normative tehnice"
     ],
-    "matchPercentage": 68,
-    "reason": "Controlul calitatii lucrarilor de instalatii electrice si mecanice se potriveste cu competentele tehnice de executie si normative."
+    "matchPercentage": 75,
+    "reason": "Controlul calității instalațiilor electrice și mecanice este relevant pentru execuția instalațiilor."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/1loIjnWQLn",
-    "title": "Inginer Calitate Electrice",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/b1I5LokK3w",
+    "title": "Inginer Implementare Electrice",
     "company": "ELECTROGRUP SA",
     "location": [
-      "Constanta",
+      "Piatra-Neamt",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:22:31Z",
+    "date": "2026-10-29T12:31:50Z",
     "status": "scraped",
     "tags": [
-      "calitatea instalatiilor",
-      "normative tehnice"
+      "instalatii electrice",
+      "coordonarea executiei"
     ],
-    "matchPercentage": 68,
-    "reason": "Verificarea calitatii lucrarilor electrice de joasa, medie si inalta tensiune foloseste competentele de normative si executie."
+    "matchPercentage": 72,
+    "reason": "Inginerul implementare electrice studiază proiecte, normative și liste de materiale și coordonează execuția lucrărilor electrice, potrivit pregătirii."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3146115",
-    "title": "TEHNICIAN SANITAR",
-    "company": "DIAVERUM ROMANIA SRL",
-    "location": [
-      "Calarasi",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:01:38.220Z",
-    "status": "scraped",
-    "tags": [
-      "exploatarea instalatiilor",
-      "mentenanta"
-    ],
-    "matchPercentage": 68,
-    "reason": "Tehnicianul sanitar se ocupa de exploatarea, revizia si depanarea instalatiilor si a statiei de tratare a apei."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/QySfQRgesf",
-    "title": "Tehnician Sisteme de Securitate",
-    "company": "DIRECT ONE SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:05:39Z",
-    "status": "scraped",
-    "tags": [
-      "integrare sisteme",
-      "selectie echipamente"
-    ],
-    "matchPercentage": 65,
-    "reason": "Dimensionarea, selectarea si integrarea sistemelor de securitate si detectie incendiu in cladiri folosesc competente de instalatii."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272255/AECOM-/BIM-Coordinator-–-Data-Centers",
-    "title": "BIM Coordinator – Data Centers",
-    "company": "AECOM INGENIERIA SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:06:13.777Z",
-    "status": "scraped",
-    "tags": [
-      "BIM",
-      "integrare sisteme"
-    ],
-    "matchPercentage": 65,
-    "reason": "BIM Coordinator pentru data centers, domeniu apropiat de integrarea instalațiilor electrice și HVAC în clădiri."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/IWatG3gVPA",
-    "title": "Inginer Ofertare Energetic",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/DXLHzwvIPf",
+    "title": "Inginer Implementare Electrice",
     "company": "ELECTROGRUP SA",
     "location": [
-      "Cluj-Napoca",
+      "Sibiu",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:22:31Z",
+    "date": "2026-10-29T12:31:50Z",
     "status": "scraped",
     "tags": [
-      "documentatie tehnica",
-      "retele electrice"
+      "instalatii electrice",
+      "coordonarea executiei"
     ],
-    "matchPercentage": 62,
-    "reason": "Ofertare energetica cu elaborare de solutii tehnice si devize pentru infrastructura energetica, potrivire partiala cu competentele de documentatie tehnica."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/bL6rHPpidb",
-    "title": "Inginer Ofertare Energetic",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:22:31Z",
-    "status": "scraped",
-    "tags": [
-      "documentatie tehnica",
-      "retele electrice"
-    ],
-    "matchPercentage": 62,
-    "reason": "Ofertare energetica cu elaborare de solutii tehnice si devize pentru infrastructura energetica, potrivire partiala cu competentele de documentatie tehnica."
+    "matchPercentage": 72,
+    "reason": "Inginerul implementare electrice studiază proiecte, normative și liste de materiale și coordonează execuția lucrărilor electrice, potrivit pregătirii."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-centrala-termica",
@@ -514,11 +300,29 @@
     "date": "2026-10-16T13:02:43.457Z",
     "status": "scraped",
     "tags": [
-      "exploatare instalații",
-      "mentenanță"
+      "instalatii termice",
+      "mentenanta"
     ],
-    "matchPercentage": 62,
-    "reason": "Post de tehnician la centrală termică, cu activitate directă de exploatare și întreținere a instalațiilor termice, potrivit ca nivel de intrare."
+    "matchPercentage": 72,
+    "reason": "Tehnicianul la centrala termică operează și întreține instalații termice, fără cerință de experiență menționată."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-service-hvac_sibiu_4876/",
+    "title": "Tehnician Service HVAC",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:15:39.718Z",
+    "status": "scraped",
+    "tags": [
+      "mentenanta instalatii",
+      "HVAC"
+    ],
+    "matchPercentage": 70,
+    "reason": "Post de service HVAC cu activitate directa de intretinere si remediere a instalatiilor, accesibil ca nivel tehnician."
   },
   {
     "url": "https://ro.gigroup.com/job-detail/bucuresti-sectorul-3-bucuresti-ajutor-mentenanta/14719/",
@@ -532,10 +336,171 @@
     "date": "2026-10-17T12:22:26.529Z",
     "status": "scraped",
     "tags": [
-      "mentenanță",
-      "exploatare instalații"
+      "mentenanta instalatii",
+      "HVAC"
+    ],
+    "matchPercentage": 68,
+    "reason": "Ajutorul de mentenanță asistă intervenții electrice și HVAC în clădiri, rol entry-level pe instalații."
+  },
+  {
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/instalatori/anunt/angajez-instalator-tehnico-sanitar-si-de-gaze/49709745h19i75dh10h88di916d56141.html",
+    "title": "angajez instalator tehnico sanitar si de gaze",
+    "company": "PUBLI24 DIGITAL S.R.L.",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:08:39.504Z",
+    "status": "scraped",
+    "tags": [
+      "executia instalatiilor",
+      "mentenanta instalatiilor"
+    ],
+    "matchPercentage": 68,
+    "reason": "Post de instalator tehnico-sanitar și de gaze, cu 1-3 ani experiență, care implică execuția și întreținerea instalațiilor."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/IWatG3gVPA",
+    "title": "Inginer Ofertare Energetic",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "documentație tehnică",
+      "instalații electrice"
+    ],
+    "matchPercentage": 65,
+    "reason": "Ofertare tehnică în infrastructură energetică, cu utilizare parțială a competențelor de instalații și documentație tehnică."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/bL6rHPpidb",
+    "title": "Inginer Ofertare Energetic",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "documentație tehnică",
+      "instalații electrice"
+    ],
+    "matchPercentage": 65,
+    "reason": "Ofertare tehnică în infrastructură energetică, cu utilizare parțială a competențelor de instalații și documentație tehnică."
+  },
+  {
+    "url": "https://multijobs.ro/job/instalator-sanitar/2030",
+    "title": "Instalator Sanitar",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:07:53.769Z",
+    "status": "scraped",
+    "tags": [
+      "executia instalatiilor",
+      "intretinerea instalatiilor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Post de instalator sanitar în domeniul execuției instalațiilor, cu nivel de experiență compatibil."
+  },
+  {
+    "url": "https://multijobs.ro/job/instalator-tehnico-sanitar/1648",
+    "title": "Instalator Tehnico-Sanitar",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:04:25.779Z",
+    "status": "scraped",
+    "tags": [
+      "executia instalatiilor",
+      "intretinerea instalatiilor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Post de instalator tehnico-sanitar, relevant pentru execuția și remedierea instalațiilor sanitare."
+  },
+  {
+    "url": "https://dreamjobs.ro/ro/job/adb-biomass/viz-es-gazszerelo",
+    "title": "Instalator sanitar și de gaze",
+    "company": "ADB BIOMASS S.R.L.",
+    "location": [
+      "Sfantu Gheorghe",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:13.903Z",
+    "status": "scraped",
+    "tags": [
+      "executia instalatiilor",
+      "mentenanta instalatiilor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Instalator sanitar și de gaze într-o companie de energie regenerabilă, cu activitate de execuție și mentenanță."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/war0SBYryL",
+    "title": "Dispecer Energetic de Centrala",
+    "company": "NOVA POWER &amp; GAS S.A.",
+    "location": [
+      "Campia Turzii",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T11:50:05Z",
+    "status": "scraped",
+    "tags": [
+      "exploatarea instalatiilor",
+      "instalatii electrice"
+    ],
+    "matchPercentage": 62,
+    "reason": "Dispecerul energetic operează și monitorizează instalații electrice și de producere a energiei, activitate tehnică de exploatare parțial potrivită."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/instalator-sanitar-loc-de-munca-in-spania/1987919",
+    "title": "INSTALATOR SANITAR – LOC DE MUNCĂ ÎN SPANIA",
+    "company": "PIINEA DE CASA SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:01:41.129Z",
+    "status": "scraped",
+    "tags": [
+      "executia instalatiilor",
+      "intretinerea instalatiilor"
     ],
     "matchPercentage": 60,
-    "reason": "Rol entry-level de suport în mentenanța instalațiilor electrice și HVAC din clădiri, relevant parțial pentru competențele tehnice."
+    "reason": "Instalator sanitar în Spania, cu minim 2 ani experiență, pe sarcini de execuție și reparare a instalațiilor."
+  },
+  {
+    "url": "https://www.anuntul.ro/anunt-angajare-electrician-cu-fara-zK2drm",
+    "title": "Electrician cu/ fara experienta si instalator sanitar",
+    "company": "ANUNTUL TOTAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T11:59:22.731Z",
+    "status": "scraped",
+    "tags": [
+      "executia instalatiilor",
+      "mentenanta instalatiilor"
+    ],
+    "matchPercentage": 60,
+    "reason": "Electrician și instalator sanitar fără experiență, rol entry-level în execuția instalațiilor."
   }
 ]
